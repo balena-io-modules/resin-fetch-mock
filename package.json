@@ -1,6 +1,6 @@
 {
   "name": "resin-fetch-mock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common util to mock fetch requests in resin tests",
   "main": "index.js",
   "scripts": {},
