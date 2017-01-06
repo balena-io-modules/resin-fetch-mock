@@ -1,0 +1,16 @@
+{
+  "name": "resin-fetch-mock",
+  "version": "1.0.0",
+  "description": "Common util to mock fetch requests in resin tests",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [ "test", "fetch", "mock", "mocking" ],
+  "author": "Eugene Mirotin <eugene@resin.io>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "fetch-ponyfill": "^3.0.2",
+    "fetch-mock": "^5.8.0",
+    "lodash": "^4.6.1"
+  }
+}
