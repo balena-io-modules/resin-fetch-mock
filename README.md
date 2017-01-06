@@ -5,9 +5,11 @@ resin-fetch-mock
 
 [![npm version](https://badge.fury.io/js/resin-fetch-mock.svg)](http://badge.fury.io/js/resin-fetch-mock)
 [![dependencies](https://david-dm.org/resin-io-modules/resin-fetch-mock.svg)](https://david-dm.org/resin-io-modules/resin-fetch-mock.svg)
+<!--
 [![Build Status](https://travis-ci.org/resin-io-modules/resin-fetch-mock.svg?branch=master)](https://travis-ci.org/resin-io-modules/resin-fetch-mock)
 [![Build status](https://ci.appveyor.com/api/projects/status/8qmwhh1vhm27otn4/branch/master?svg=true)](https://ci.appveyor.com/project/resin-io/resin-fetch-mock/branch/master)
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/resin-io/chat)
+-->
 
 Role
 ----
