@@ -30,7 +30,7 @@ const { fetchMock, mockedFetch } = require("resin-fetch-mock")
 ```
 
 The `fetchMock` is a _[sandboxed](https://github.com/wheresrhys/fetch-mock#sandboxpromise-experimental)_
-instance of `[fetch-mock](https://github.com/wheresrhys/fetch-mock)`
+instance of [`fetch-mock`](https://github.com/wheresrhys/fetch-mock)
 preconfigured with the `Bluebird` Promise implementation.
 
 Use it according to the [fetch-mock documentation](https://github.com/wheresrhys/fetch-mock#mocking-calls-to-fetch).
