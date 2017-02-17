@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Common util to mock fetch requests in resin tests",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/resin-io-modules/resin-fetch-mock.git"
+  },
   "scripts": {},
   "keywords": [ "test", "fetch", "mock", "mocking" ],
   "author": "Eugene Mirotin <eugene@resin.io>",
