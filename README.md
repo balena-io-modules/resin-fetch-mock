@@ -40,7 +40,7 @@ of the original `fetch`.
 
 **Note:** in the browser environment requiring this module will set the
 `Headers`, `Request`, and `Response` constructors globally.
-These constructors are taken from the `[fetch-ponyfill](https://github.com/qubyte/fetch-ponyfill)` module.
+These constructors are taken from the [`fetch-ponyfill`](https://github.com/qubyte/fetch-ponyfill) module.
 
 Support
 -------
