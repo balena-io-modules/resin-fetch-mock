@@ -1,6 +1,6 @@
 {
   "name": "resin-fetch-mock",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Common util to mock fetch requests in resin tests",
   "main": "index.js",
   "repository": {
@@ -13,7 +13,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "bluebird": "^3.3.4",
-    "fetch-ponyfill": "^3.0.2",
+    "fetch-ponyfill": "^4.0.0",
     "fetch-mock": "^5.9.4",
     "lodash": "^4.6.1"
   }
